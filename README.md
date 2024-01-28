@@ -1,6 +1,6 @@
 # gitFinder
 
-[Live Preview](https://parthmadhvani2.github.io/gitfinder/)
+[Live Preview](https://parthmadhvani2.github.io/GitFinder/)
 
 GitHub Profile Finder is a web application that allows you to search for GitHub users and view their profile details. The application is built using HTML, CSS, and JavaScript, and it utilizes the GitHub API to fetch user data and present it at the front end. Features
 
